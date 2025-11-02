@@ -5,7 +5,7 @@ Hem manuel test hem otomasyon konularında pratiklerimi paylaşıyorum.-----
 İçerik:
 
 - [Test Case Örnekleri](./test-cases)
-- [Test Case Örnekleri - E-commerce Purchase Test Cases](./test-cases/ecommerce_purchase_test_cases.md)
+- [Test Case Örnekleri - E-commerce Purchase Test Cases](./ecommerce_purchase_test_cases.xlsx)
 
    
 - [Otomasyon Scriptleri](./automation)
