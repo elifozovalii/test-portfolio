@@ -4,11 +4,12 @@ Examples of my software testing projects and learning notes.
 Hem manuel test hem otomasyon konularında pratiklerimi paylaşıyorum.-----
 İçerik:
 
- -[Test Case Örnekleri](./test-cases)
-   -[E-commerce Purchase Test Cases](./test-cases/ecommerce_purchase_test_cases.md)
+- [Test Case Örnekleri](./test-cases)
+- [Test Case Örnekleri - E-commerce Purchase Test Cases](./test-cases/ecommerce_purchase_test_cases.md)
+
    
- -[Otomasyon Scriptleri](./automation)
+- [Otomasyon Scriptleri](./automation)
  
- -[API Testleri](./api-tests)
+- [API Testleri](./api-tests)
  
- -[Notlar ve Öğrenme Günlüğü](./learning-notes)
+- [Notlar ve Öğrenme Günlüğü](./learning-notes)
